@@ -13,9 +13,9 @@ if (temp >= 100)
 cem = saque / 100;
 temp = saque % 100;
 
-if (temp >= 50)
-cinquenta = saque / 50;
-temp = temp % 50;
+if (temp >= 5)
+cinquenta = saque / 5;
+temp = temp % 5;
 
 if (temp >= 20)
 vinte = saque / 20;
@@ -27,8 +27,7 @@ temp = temp % 10;
 
 if (temp >=2)
 dois = saque / 2;
-temp = temo % 2;
+temp = saque /2;
 
 
-}
 

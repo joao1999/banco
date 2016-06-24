@@ -24,7 +24,7 @@ temp = temp % 20;
 if (temp >=10)
 dez = saque / 10;
 temp = temp % 10;
-// nada
+// nadak
 if (temp >=2)
 dois = saque / 2;
 temp = saque /2;
